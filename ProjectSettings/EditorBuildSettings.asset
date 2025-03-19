@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/App/Scenes/Anatomy.unity
+    guid: 04d37ffdf6a120749add33f44931d720
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c833db9ea58d7c6448c696316e20611d, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 8eadf2d2748becc42814c28840b9d0e6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d961b23c0a938c847850c86793510cc7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fae40547c1482ac4c94b3d781a86b3f6, type: 2}
